@@ -13,3 +13,7 @@ Aplicación de escritorio en Python para gestión de trámites documentarios.
 
 ## Busqueda de Tramites
 - Consulta por DNI y numero de expediente.
+
+
+## Requisitos
+- Python 3.x e instalacion de librerias estandar.
