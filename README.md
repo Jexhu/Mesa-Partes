@@ -9,3 +9,7 @@ Aplicación de escritorio en Python para gestión de trámites documentarios.
 
 ## Interfaz Grafica
 - Construida en Python con Tkinter.
+
+
+## Busqueda de Tramites
+- Consulta por DNI y numero de expediente.
